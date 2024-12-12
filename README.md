@@ -25,7 +25,7 @@ ________________________________________
 1.1 Importing Data
 1.	Open Power BI Desktop.
 2.	Click Get Data and choose the appropriate data source (e.g., Excel, SQL, or CSV).
-o	Example datasets:
+o	Example datasets:<br>
 	Sales.csv (Order ID, Product ID, Sales, Profit, Date, Region).
 	Products.csv (Product ID, Category, Subcategory, Price).
 	Customers.csv (Customer ID, Name, Location, Segment).
